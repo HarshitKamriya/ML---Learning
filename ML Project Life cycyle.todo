@@ -1,0 +1,71 @@
+ ┌──────────────────────────┐
+ │ 1. Problem Definition    │
+ │ (Understand the problem) │
+ └─────────────┬────────────┘
+               │
+               ▼
+ ┌──────────────────────────┐
+ │ 2. Data Collection       │
+ │ (Gather relevant data)   │
+ └─────────────┬────────────┘
+               │
+               ▼
+ ┌──────────────────────────┐
+ │ 3. Data Preprocessing    │
+ │ - Cleaning               │
+ │ - Handling missing data  │
+ │ - Feature selection      │
+ │ - Normalization          │
+ └─────────────┬────────────┘
+               │
+               ▼
+ ┌──────────────────────────┐
+ │ 4. Exploratory Data      │
+ │    Analysis (EDA)        │
+ │ - Patterns & trends      │
+ │ - Visualization          │
+ └─────────────┬────────────┘
+               │
+               ▼
+ ┌──────────────────────────┐
+ │ 5. Model Selection       │
+ │ (Choose ML algorithm)    │
+ │ - Regression             │
+ │ - Classification         │
+ │ - Clustering             │
+ └─────────────┬────────────┘
+               │
+               ▼
+ ┌──────────────────────────┐
+ │ 6. Model Training        │
+ │ (Train model on data)    │
+ └─────────────┬────────────┘
+               │
+               ▼
+ ┌──────────────────────────┐
+ │ 7. Model Evaluation      │
+ │ - Accuracy               │
+ │ - Precision / Recall     │
+ │ - RMSE / F1-score        │
+ └─────────────┬────────────┘
+               │
+        ┌──────┴──────┐
+        │ Is model    │
+        │ performance │
+        │ satisfactory│
+        │ ?           │
+        └──────┬──────┘
+               │Yes
+               ▼
+ ┌──────────────────────────┐
+ │ 8. Model Deployment      │
+ │ (API / App / System)     │
+ └─────────────┬────────────┘
+               │
+               ▼
+ ┌──────────────────────────┐
+ │ 9. Monitoring &          │
+ │    Maintenance           │
+ │ - Performance drift      │
+ │ - Retraining             │
+ └──────────────────────────┘
